@@ -14,6 +14,7 @@ h1 {
 
 	font-size: 4rem;
 	font-family: Consolas, Menlo, Monaco, 'Lucida Console', 'Liberation Mono', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Courier New', monospace, serif;
+	font-weight: normal;
 	text-align: center;
 
 	-webkit-transform: translate(-50%, -50%);
