@@ -1,3 +1,31 @@
+# Node
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+node_modules
+
+# Project specific
 data.json
-.DS_Store
 photos/*
+
+# IDE Files
+.buildpath
+.project
+nbproject/*
+*.sublime-*
+tags
+
+# OS Files
+.DS_Store
+Thumbs.db
