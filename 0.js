@@ -44,23 +44,9 @@
 			glitch();
 
 		});
-	},
-
-	matrix = function(photos)
-	{
-		photos.forEach(function(data)
-		{
-			$('<img/>').attr('src', data.src).appendTo('body');
-		});
 	};
 
-	$(function()
-	{
-		// glitchy();
-
-		$.getJSON('/data.json', matrix);
-
-	})
+	$(glitchy);
 
 }());
 

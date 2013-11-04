@@ -16,6 +16,7 @@ h1 {
 	font-family: Consolas, Menlo, Monaco, 'Lucida Console', 'Liberation Mono', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Courier New', monospace, serif;
 	font-weight: normal;
 	line-height: 1;
+	text-align: center;
 
 	-webkit-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
@@ -26,11 +27,4 @@ h1 span {
 	position: relative;
 	overflow: hidden;
 	background-color: #000;
-}
-
-
-
-img {
-	max-width: 400px;
-	max-height: 400px;
 }
