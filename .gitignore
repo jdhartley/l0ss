@@ -1,23 +1,5 @@
-# Node
-lib-cov
-*.seed
-*.log
-*.csv
-*.dat
-*.out
-*.pid
-*.gz
-
-pids
-logs
-results
-
-npm-debug.log
-node_modules
-
 # Project specific
 0.mp4
-data.json
 photos/*
 
 # IDE Files
