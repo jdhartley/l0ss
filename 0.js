@@ -22,7 +22,7 @@
             $photoList = $('ul'),
             $vid = false;
 
-        $header.on('click', 'a', function()
+        $header.on('click', '#aboutOpen', function()
         {
             if ( $('#about').toggleClass('opened').hasClass('opened') && $(window).width() >= 1000 && typeof InstallTrigger === 'undefined' )
             {
